@@ -1,3 +1,3 @@
-# Jira-Connector-WEX-Parsing
-Tool to intake a Workflow Execution File (WEX) from the Smartsheet Jira Connector and return a more user friendly output. 
+Connectors-WEX-Parsing
+Tool to intake a Workflow Execution File (WEX) from the Smartsheet Connectors and return a more user friendly output. Not that testing was primarily completed using Jira and Salesforce Connectors.
 
