@@ -29,7 +29,7 @@ Jira Connector WEX Parsing Example
 >Jira Filters: 
 >["JQL = issuetype in ('Epic', 'Story', 'Bug') AND status in ('To Do', 'In "
  >"Progress')"]
-
+>
 >Sheet Filters: 
 >[('Sync to Jira', 'EQUALS', 'true')]
 >
