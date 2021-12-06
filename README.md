@@ -13,6 +13,12 @@ This tool is designed to intake a Workflow Execution File (WEX) from Smartsheet 
 2. Select the timestamp under Last Run for the latest run of the workflow.
 3. On following page, go to the hamburger menu (three horizontal lines in the upper left) and choose Download Workflow Execution Support Info.
 
+## Steps to Run
+
+1. Install [Python](https://www.python.org/downloads/)
+2. Clone this repo or download as zip and extract into your desired project directory.
+3. Run the script from terminal or IDE of your choosing. 
+
 ## Output Example
 
 ```
