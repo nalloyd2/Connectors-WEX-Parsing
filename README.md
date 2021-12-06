@@ -1,6 +1,9 @@
 **Description**
+Tool to intake a Workflow Execution File (WEX) from Smartsheet Connectors and return a more user friendly output. Note that testing was primarily completed using Jira and Salesforce Connectors. 
 
-Tool to intake a Workflow Execution File (WEX) from the Smartsheet Connectors and return a more user friendly output. Note that testing was primarily completed using Jira and Salesforce Connectors. 
+**Requirements**
+1. Access to a Smartsheet Connector. Smartsheet Connectors are a paid premium add-on for Smartsheet. Please reach out to [Smartsheet Sales](https://www.smartsheet.com/contact/sales) to inquire about purchasing Smartsheet / Connectors.
+2. A WEX file downloaded from the Connector.
 
 **Output Example**
 
