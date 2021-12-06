@@ -1,9 +1,17 @@
 **Description**
-Tool to intake a Workflow Execution File (WEX) from Smartsheet Connectors and return a more user friendly output. Note that testing was primarily completed using Jira and Salesforce Connectors. 
+
+This tool is designed to intake a Workflow Execution File (WEX) from Smartsheet Connectors and return a more user friendly output. Note that testing was primarily completed using Jira and Salesforce Connectors. I haven't tested every possible combination of configuration so there is a change you may encoutner errors depending on how things are configured. 
 
 **Requirements**
+
 1. Access to a Smartsheet Connector. Smartsheet Connectors are a paid premium add-on for Smartsheet. Please reach out to [Smartsheet Sales](https://www.smartsheet.com/contact/sales) to inquire about purchasing Smartsheet / Connectors.
 2. A WEX file downloaded from the Connector.
+
+**Steps to Obtain a WEX File**
+
+1. In the Connector dashboard, select the timestamp under the Run Date column of the workflow. This will bring you to the workflow run history where you can see any error messages for each run.
+2. Select the timestamp under Last Run for the latest run of the workflow.
+3. On following page, go to the hamburger menu (three horizontal lines in the upper left) and choose Download Workflow Execution Support Info.
 
 **Output Example**
 
