@@ -19,6 +19,8 @@ This tool is designed to intake a Workflow Execution File (WEX) from Smartsheet 
 2. Clone this repo or download as zip and extract into your desired project directory.
 3. Run the script from terminal or IDE of your choosing. 
 
+The output "wex_parsed.txt" will be created in the directory you run the script from. 
+
 ## Output Example
 
 ```
